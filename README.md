@@ -1,3 +1,3 @@
-# profanity-filter-api with Hono, Cloudflare and Upstash
+# hono-profanity-filter-api
 
-- I made this project by watching this [yt video](https://www.youtube.com/watch?v=nLzaCmgxPwM). Thanks!
+- I built this project by watching https://www.youtube.com/watch?v=nLzaCmgxPwM. Thanks!
